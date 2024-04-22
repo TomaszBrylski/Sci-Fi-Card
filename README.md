@@ -3,7 +3,7 @@
 ![Conventer](Sci-Fi-Card.gif)
 ### Demo ⤵
 https://tomaszbrylski.github.io/Sci-Fi-Card/
-### ### Tech 💻
+### Tech 💻
 - HTML
 - CSS
   - Box model (box-sizing, margin, padding)
